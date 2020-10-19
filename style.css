@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    border: 1px green;
+    height: 100px;
+    background-color: #7FFF00;
+
+}
+.left{
+    border: 1px green;
+    height: 500px;
+    background-color: #7FFF00;
+}
+.middle{
+    border: 1px green;
+    background-color: #7FFF00;
+    height: 350px;
+}
+.right{
+    border: 1px green;    
+    height: 135px;
+    background-color: #7FFF00;
+}
+
+.container
+{
+    width: 1000px;
+}
